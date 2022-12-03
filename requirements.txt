@@ -13,4 +13,3 @@ requests
 urllib3
 Werkzeug
 ibm_db
-sendgrid
